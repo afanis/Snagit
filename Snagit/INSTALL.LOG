@@ -1,0 +1,71 @@
+***  Installation Started 03/31/99 10:28  ***
+Title: SnagIt  Installation
+Source: C:\SKEVS'~1\PROJECTS\TCP\SNAGIT.EXE
+Made Dir: C:\Program Files\TechSmith
+Made Dir: C:\Program Files\TechSmith\SnagIt32
+File Copy: C:\Program Files\TechSmith\SnagIt32\snagit32.exe
+File Copy: C:\Program Files\TechSmith\SnagIt32\Snagit32.hlp
+File Copy: C:\Program Files\TechSmith\SnagIt32\Snagit32.cnt
+File Copy: C:\Program Files\TechSmith\SnagIt32\Snagtx16.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Snagtx32.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Ltkrn90n.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Ltimg90n.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Ltfil90n.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Ltdlg90n.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Ltdis90n.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Lftif90n.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Lfpng90n.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Lfpcx90n.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Lfgif90n.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Lffax90n.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Lfcmp90n.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Lfbmp90n.dll
+File Copy: C:\Program Files\TechSmith\SnagIt32\Register.txt
+File Copy: C:\Program Files\TechSmith\SnagIt32\Readme.txt
+File Copy: C:\Program Files\TechSmith\SnagIt32\Snagww.doc
+File Copy: C:\Program Files\TechSmith\SnagIt32\Snagmw97.dot
+File Copy: C:\Program Files\TechSmith\SnagIt32\dderef.doc
+File Copy: C:\PROGRA~1\TECHSM~1\SNAGIT32\SIUNINST.EXE
+File Copy: C:\PROGRA~1\TECHSM~1\SNAGIT32\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\SnagIt32
+RegDB Val: SnagIt32 v4.3
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\SnagIt32
+RegDB Val: C:\PROGRA~1\TECHSM~1\SNAGIT32\SIUNINST.EXE
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Key: Software\TechSmith\SnagIt32\4.0
+RegDB Val: tscftp
+RegDB Name: DistCode
+RegDB Root: 1
+RegDB Key: Software\TechSmith\SnagIt32\4.0
+RegDB Val: C:\PROGRA~1\TECHSM~1\SNAGIT32\SnagIt32.exe
+RegDB Name: InstallExe
+RegDB Root: 1
+RegDB Key: Software\TechSmith\SnagIt32\4.0
+RegDB Val: 4.3
+RegDB Name: InstallVer
+RegDB Root: 1
+RegDB Key: software\microsoft\windows\currentversion\app paths\SnagIt32.exe
+RegDB Val: C:\PROGRA~1\TECHSM~1\SNAGIT32\SnagIt32.exe
+RegDB Root: 2
+RegDB Key: software\microsoft\windows\currentversion\app paths\SnagIt32.exe
+RegDB Val: C:\PROGRA~1\TECHSM~1\SNAGIT32
+RegDB Name: Path
+RegDB Root: 2
+RegDB Key: software\microsoft\windows\help
+RegDB Val: C:\PROGRA~1\TECHSM~1\SNAGIT32
+RegDB Name: snagit32.hlp
+RegDB Root: 2
+RegDB Key: SOFTWARE\TechSmith\SnagIt\4.3
+RegDB Val: 
+RegDB Root: 2
+RegDB Tree: Software\TechSmith\SnagIt32\4.0
+RegDB Root: 1
+Made Dir: C:\WINNT\Profiles\miaoulis\Start Menu\Programs\SnagIt32
+Shell Link: C:\WINNT\Profiles\miaoulis\Start Menu\Programs\SnagIt32\SnagIt32 Readme 4.3.lnk
+Shell Link: C:\WINNT\Profiles\miaoulis\Start Menu\Programs\SnagIt32\SnagIt32 4.3.lnk
+Shell Link: C:\WINNT\Profiles\miaoulis\Start Menu\Programs\SnagIt32\SnagIt32 Help 4.3.lnk
+Shell Link: C:\WINNT\Profiles\miaoulis\Desktop\SnagIt32 4.3.lnk
+User Rights: Admin

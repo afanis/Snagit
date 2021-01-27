@@ -1,0 +1,312 @@
+:Base snagit32.hlp
+:Title SnagIt/32 Help
+1 Welcome
+2 Welcome to SnagIt/32=Welcome_to_SnagIt_32
+2 How Can I Purchase SnagIt/32?=How_Can_I_Purchase_SnagIt_32
+2 About Us
+3 About TechSmith Corporation and Our Products=About_TechSmith_Corporation_and_Our_Products
+3 Acknowledgments=Acknowledgments
+2 Software License Agreement
+3 Software License Agreement=Software_License_Agreement
+2 Image Capture Overview
+3 Making Captures Easier and Faster=Making_Captures_Easier_and_Faster
+3 Using SnagIt/32 to Save Time=Using_SnagIt_32_to_Save_Time
+3 Boosting Capture Productivity with Catalog Browsing=Boosting_Capture_Productivity_with_Catalog_Browsing
+3 Making Better, More Usable Screen Shots=Making_Better_More_Usable_Screen_Shots
+3 Why Not Use PrintScreen?=Why_Not_Use_PrintScreen
+1 Getting Started
+2 Install SnagIt/32
+3 System Requirements=System_Requirements
+3 Installing SnagIt/32=Installing_SnagIt_32
+3 Uninstalling SnagIt/32=Uninstalling_SnagIt_32
+2 Starting and Running the Program
+3 Using the Capture Wizard=Using_the_Capture_Wizard
+3 Starting SnagIt/32=Starting_SnagIt_32
+3 Command Line Arguments=Command_Line_Arguments
+3 Image Capture Quick Start=Image_Capture_Quick_Start
+3 Auto-Load Option=Auto_Load_Option
+3 Setting Capture Options Quickly: Image Example=Setting_Capture_Options_Quickly_Images
+3 Setting Capture Options Quickly: Text Example=Setting_Capture_Options_Quickly_Text_Example
+3 Setting Capture Options Quickly: Video Example=Setting_Capture_Options_Quickly_Video_Example
+2 Frequently Asked Questions
+3 Frequently Asked Questions=Frequently_Asked_Questions
+3 How do the evaluation and registered versions of SnagIt/32 differ?=How_do_the_evaluation_and_registered_versions_of_SnagIt_32_differ
+3 Is SnagIt/32 networkable?=Is_SnagIt_32_networkable
+3 Does SnagIt/32 work with Windows 95 and Windows NT?=Does_SnagIt_32_work_with_Windows_95_and_Windows_NT
+3 Can I load Win32s and use SnagIt/32 with Windows 3.x?=Can_I_load_Win32s_and_use_SnagIt_32_with_Windows_3_x
+3 What printers are compatible with SnagIt/32?=What_printers_are_compatible_with_SnagIt_32
+3 How do you capture DOS screens?=How_do_you_capture_DOS_screens
+3 Will SnagIt/32 work if the background and foreground colors are reversed?=Will_SnagIt_32_work_if_the_background_and_foreground_colors_are_reversed
+3 How do I capture a window as text, not graphics?=How_do_I_capture_a_window_as_text_not_graphics
+3 How do I print images from a CD-ROM?=How_do_I_print_images_from_a_CD_ROM
+3 The SnagIt/32 icon showed up in my capture. How can I prevent this?=The_SnagIt_32_icon_showed_up_in_my_capture_How_can_I_prevent_this
+3 How do I increase the printed image size?=How_do_I_increase_the_printed_image_size
+3 The PowerPoint screen display of the image I captured is terrible. Why?=The_PowerPoint_screen_display_of_the_image_I_captured_is_terrible_Why
+3 How do I get SnagIt/32 to capture the screen?=How_do_I_get_SnagIt_32_to_capture_the_screen
+3 What are the different Output File Formats?=What_are_the_different_Output_File_Formats
+3 Why is the SnagIt/32 Output >Send Mail menu item disabled?=Why_is_the_SnagIt_32_Output_Send_Mail_menu_item_disabled
+3 How do I pick the image file type used for Mail output?=How_do_I_pick_the_image_file_type_used_for_Mail_output
+3 What does it mean when SnagIt/32 complains about a hotkey conflict?=What_does_it_mean_when_SnagIt_32_complains_about_a_hotkey_conflict
+3 Why does the screen freeze while selecting a region or window with SnagIt/32?=Why_does_the_screen_freeze_while_selecting_a_region_or_window_with_SnagIt_32
+3 I hit the hotkey, selected a region, then nothing. Why?=I_hit_the_hotkey_selected_a_region_then_nothing
+3 The SnagIt/32 hotkey isn't working. Why?=The_SnagIt_32_hotkey_isn_t_working_Why
+3 How do I lighten the background color?=How_do_I_lighten_the_background_color
+3 How does SnagIt's Monochrome option work?=How_does_SnagIt_s_Monochrome_option_work
+3 How do SnagIt's Color Boost and Inverse features work?=How_does_SnagIt_s_Color_Invert_feature_work
+3 Does SnagIt/32 work with Word Perfect using the Clipboard?=Does_SnagIt_32_work_with_Word_Perfect_using_the_Clipboard
+1 Main Screen, Tools, Menus, and Toolbar
+2 SnagIt/32 Main Screen=SnagIt_32_Main_Screen
+2 SnagIt/32 Main Screen Status Display=SnagIt_32_Main_Screen_Status_Display
+2 Input Menu Options
+3 Input Menu Options=Input_Menu_Options
+3 Screen (Input)=Screen_Input
+3 Window (Input)=Window_Input
+3 Active Window (Input)=Active_Window_Input
+3 Region (Input)=Region_Input
+3 Fixed Region (Input)=Fixed_Region_Input
+3 Graphic File (Input)=Graphic_File_Input
+3 Clipboard (Input)=Clipboard_Input
+3 Full-screen DOS (Input)=Full_screen_DOS_Input
+3 Menu (Input)=Menu_Input
+3 Include Cursor (Input)=Include_Cursor_Input
+3 Record Audio (Input)=Record_Audio_Input
+3 Auto Scroll (Input)=Auto_Scroll_Input
+3 Clipboard Chain (Input)=Clipboard_Chain_Input
+3 Properties (Input)=Properties_Input
+3 Capturing a Big Window that Scrolls Off-Screen=Capturing_a_Big_Window_that_Scrolls_Off_Screen
+2 Output Menu Options
+3 Output Menu Options=Output_Menu_Options
+3 Printer (Output)=Printer_Output
+3 Clipboard (Output)=Clipboard_Output
+3 File (Output)=File_Output
+3 File (Output) - Image Captures=File_Output_Image_Captures
+3 File (Output) - Text Captures=File_Output_Text_Captures
+3 File (Output) - Video Captures=File_Output_Video_Captures
+3 AVI Option Settings=AVI_Option_Settings
+3 Send Mail (Output)=Send_Mail_Output
+3 Catalog (Output)=Catalog_Output
+3 Preview Window (Output)=Preview_Window_Output
+3 Multiple Outputs (Output)=Multiple_Outputs_Output
+3 Properties (Output)
+4 Properties (Output)=Properties_Output
+4 Properties (Output): Printer Tab=Properties_Output_Printer_Tab
+4 Properties (Output): File Tab=Properties_Output_File_Tab
+4 Properties (Output): Image File Tab=Properties_Output_Image_File_Tab
+4 Transparency On=Transparency_On
+4 Properties (Output): Text File Tab=Properties_Output_Text_File_Tab
+4 Properties (Output): Video File Tab=Properties_Output_Video_File_Tab
+4 Audio Format (Output Properties Video Tab)=Audio_Format_Output_Properties_Video_Tab
+4 Slow AVI Capture Mode (Output Properties Video Tab)=Slow_AVI_Capture_Mode_Output_Properties_Video_Tab
+4 Properties (Output): Send Mail Tab=Properties_Output_Send_Mail_Tab
+4 Properties (Output): Catalog Browser Tab=Properties_Output_Catalog_Browser_Tab
+2 Filters Menu Options
+3 Filters Menu Options=Filters_Menu_Options
+3 Color Conversion (Filters)=Color_Conversion_Filters
+3 Color Substitution (Filters)=Color_Substitution_Filters
+3 Image Scaling (Filters)=Image_Scaling_Filters
+3 Printer Scaling (Filters)=Printer_Scaling_Filters
+3 None (Filters)=None_Filters
+3 Monochrome (Filters)=Monochrome_Filters
+3 Halftone (Filters)=Halftone_Filters
+3 Grayscale (Filters)=Grayscale_Filters
+3 Custom Color Resolution (Filters)=Custom_Color_Resolution_Filters
+3 Invert Colors (Filters)=Invert_Colors_Filters
+3 Custom Color Substitution (Filters)=Custom_Color_Substitution_Filters
+3 Image Scaling Percentages=Image_Scaling_Percentages
+3 Custom Scale (Filters)=Custom_Scale_Filters
+3 Smooth Scaling (Filters)=Smooth_Scaling_Filters
+3 Scaling Options Details=Scaling_Options_Details
+3 Layout (Filters) - Text Captures Only=Layout_Filters_Text_Captures_Only
+3 Set Font (Filters) - Text Captures Only=Set_Font_Filters_Text_Captures_Only
+3 Word Wrap (Filters) - Text Captures Only=Word_Wrap_Filters_Text_Captures_Only
+2 Options Menu Options
+3 Options Menu Options=Options_Menu_Options
+3 Video Preferences (Options)=Video_Preferences_Options
+3 Program Preferences (Options)=Program_Preferences_Options
+3 Program Preferences (Options) - Hotkeys=Program_Preferences_Options_Hotkeys
+3 Program Preferences (Options) - Program Options=Program_Preferences_Options_Program_Options
+3 Changing the Hotkey Combination=Changing_the_Hotkey_Combination
+3 Hide SnagIt Before Capturing=Hide_SnagIt_Before_Capturing
+3 Prompt for a Capture Comment=Prompt_for_a_Capture_Comment
+3 Time and Date Stamp=Time_and_Date_Stamp
+3 Set an Audible Alert When Capture Starts or Finishes=Set_an_Audible_Alert_When_Capture_Starts_or_Finishes
+3 Auto Scroll Preferences=Auto_Scroll_Preferences
+3 Program Preferences (Options) - Capture Timer=Program_Preferences_Options_Capture_Timer
+3 Save All Settings Now (Options)=Save_All_Settings_Now_Options
+2 Tools Menu Options
+3 Tools Menu Options=Tools_Menu_Options
+3 Image Capture Tool Button=Image_Capture_Tool_Button
+3 Image Capture Overview=Image_Capture_Overview
+3 Image Capture Quick Start=Image_Capture_Quick_Start
+3 Text Capture Tool Button=Text_Capture_Tool_Button
+3 Text Capture Overview=Text_Capture_Overview
+3 Using SnagIt/32 Text Capture=Using_SnagIt_32_Text_Capture
+3 Video Capture Tool Button=Video_Capture_Tool_Button
+3 Video Capture Overview=Video_Capture_Overview
+3 Video Capture Control Dialog=Video_Capture_Control_Dialog
+3 Using SnagIt/32 Video Capture=Using_SnagIt_32_Video_Capture
+2 Help Menu Options
+3 Help Menu Options=Help_Menu_Options
+3 Quick Help (Help)=Quick_Help_Help
+3 Capture Wizard (Toolbar)=Capture_Wizard_Toolbar
+3 Contents and Index (Help)=Contents_and_Index_Help
+3 Using SnagIt/32 Help (Help)=Using_SnagIt_32_Help_Help
+3 Support (Help)=Support_Help
+3 About SnagIt/32 (Help)=About_SnagIt_32_Help
+2 SnagIt/32 Toolbar
+3 SnagIt/32 Toolbar=SnagIt_32_Toolbar
+3 Include Cursor (Toolbar)=Include_Cursor_Toolbar
+3 Record Audio (Input)=Record_Audio_Input
+3 Auto Scroll (Toolbar)=Auto_Scroll_Toolbar
+3 Preview Window (Toolbar)=Preview_Window_Toolbar
+3 Catalog Browser (Toolbar)=Catalog_Browser_Toolbar
+3 Save All Settings (Toolbar)=Save_All_Settings_Toolbar
+3 Capture Wizard (Toolbar)=Capture_Wizard_Toolbar
+3 Help (Toolbar)=Help_Toolbar
+1 Catalog Tool
+2 SnagIt/32 Catalog Overview=SnagIt_32_Catalog_Overview
+2 Catalog Browser (Tools)=Catalog_Browser_Tools
+2 Catalog Browser Menus
+3 Catalog Browser Menus and Toolbar=Catalog_Browser_Menus_and_Toolbar
+3 Catalog Browser File Menu
+4 Catalog Browser File Menu=Catalog_Browser_File_Menu
+4 File Format Options=File_Format_Options
+4 New Folder - Catalog Browser File Menu=New_Folder_Catalog_Browser_File_Menu
+4 Open - Catalog Browser File Menu=Open_Catalog_Browser_File_Menu
+4 Save As - Catalog Browser File Menu=Save_As_Catalog_Browser_File_Menu
+4 Page Setup - Catalog Browser File Menu=Page_Setup_Catalog_Browser_File_Menu
+4 Print - Catalog Browser File Menu=Print_Catalog_Browser_File_Menu
+4 Copy to Folder - Catalog Browser File Menu=Copy_to_Folder_Catalog_Browser_File_Menu
+4 Move to Folder - Catalog Browser File Menu=Move_to_Folder_Catalog_Browser_File_Menu
+4 Send Mail - Catalog Browser File Menu=Send_Mail_Catalog_Browser_File_Menu
+4 Batch Conversion - Catalog Browser File Menu=Batch_Conversion_Catalog_Browser_File_Menu
+4 Add Audio - Catalog Browser File Menu=Add_Audio_Catalog_Browser_File_Menu
+4 Delete - Catalog Browser File Menu=Delete_Catalog_Browser_File_Menu
+4 Rename - Catalog Browser File Menu=Rename_Catalog_Browser_File_Menu
+4 Properties - Catalog Browser File Menu=Properties_Catalog_Browser_File_Menu
+4 Exit - Catalog Browser File Menu=Exit_Catalog_Browser_File_Menu
+3 Catalog Browser Edit Menu
+4 Catalog Browser Edit Menu=Catalog_Browser_Edit_Menu
+4 Copy - Catalog Browser Edit Menu=Copy_Catalog_Browser_Edit_Menu
+4 Select All - Catalog Browser Edit Menu=Select_All_Catalog_Browser_Edit_Menu
+3 Catalog Browser View Menu
+4 Catalog Browser View Menu=Catalog_Browser_View_Menu
+4 Thumbnails - Catalog Browser View Menu=Thumbnails_Catalog_Browser_View_Menu
+4 Details - Catalog Browser View Menu=Details_Catalog_Browser_View_Menu
+4 Thumbnail Size - Catalog Browser View Menu=Thumbnail_Size_Catalog_Browser_View_Menu
+4 Arrange Icons - Catalog Browser View Menu=Arrange_Icons_Catalog_Browser_View_Menu
+4 Capture Types - Catalog Browser View Menu=Capture_Types_Catalog_Browser_View_Menu
+4 Refresh - Catalog Browser View Menu=Refresh_Catalog_Browser_View_Menu
+4 Fast Refresh - Catalog Browser View Menu=Fast_Refresh_Catalog_Browser_View_Menu
+4 Options - Catalog Browser View Menu=Options_Catalog_Browser_View_Menu
+3 Catalog Browser Go Menu
+4 Catalog Browser Go Menu=Catalog_Browser_Go_Menu
+4 Up One Level - Catalog Browser Go Menu=Up_One_Level_Catalog_Browser_Go_Menu
+4 To Folder - Catalog Browser Go Menu=To_Folder_Catalog_Browser_Go_Menu
+4 To Catalog Folder - Catalog Browser Go Menu=To_Catalog_Folder_Catalog_Browser_Go_Menu
+3 Catalog Browser Help Menu
+4 Catalog Browser Help Menu=Catalog_Browser_Help_Menu
+4 Help - Catalog Browser Help Menu=Help_Catalog_Browser_Help_Menu
+3 Catalog Browser Toolbar
+4 Up One Level Catalog Browser Toolbar=Up_One_Level_Catalog_Browser_Toolbar
+4 SnagIt Catalog Folder Catalog Browser Toolbar=SnagIt_Catalog_Folder_Catalog_Browser_Toolbar
+4 Refresh Catalog Browser Toolbar=Refresh_Catalog_Browser_Toolbar
+4 Open File - Catalog Browser Toolbar=Open_File_Catalog_Browser_Toolbar
+4 Print Item - Catalog Browser Toolbar=Print_Item_Catalog_Browser_Toolbar
+4 Add Audio - Catalog Browser Toolbar=Add_Audio_Catalog_Browser_Toolbar
+4 Copy to Folder - Catalog Browser Toolbar=Copy_to_Folder_Catalog_Browser_Toolbar
+4 Move to Folder - Catalog Browser Toolbar=Move_to_Folder_Catalog_Browser_Toolbar
+4 Copy to Clipboard - Catalog Browser Toolbar=Copy_to_Clipboard_Catalog_Browser_Toolbar
+4 Delete Item - Catalog Browser Toolbar=Delete_Item_Catalog_Browser_Toolbar
+4 View Thumbnails - Catalog Browser Toolbar=View_Thumbnails_Catalog_Browser_Toolbar
+4 View Details - Catalog Browser Toolbar=View_Details_Catalog_Browser_Toolbar
+4 Help - Catalog Browser Toolbar=Help_Catalog_Browser_Toolbar
+2 Catalog Viewer Menus
+3 Catalog Viewer (Tools)=Catalog_Viewer_Tools
+3 Catalog Viewer Menus and Toolbar=Catalog_Viewer_Menus_and_Toolbar
+3 Catalog Viewer File Menu
+4 Catalog Viewer File Menu=Catalog_Viewer_File_Menu
+4 Page Setup - Catalog Viewer File Menu=Page_Setup_Catalog_Viewer_File_Menu
+4 Print - Catalog Viewer File Menu=Print_Catalog_Viewer_File_Menu
+4 Print Preview - Catalog Viewer File Menu=Print_Preview_Catalog_Viewer_File_Menu
+4 Save - Catalog Viewer File Menu=Save_Catalog_Viewer_File_Menu
+4 Save As - Catalog Viewer File Menu=Save_As_Catalog_Viewer_File_Menu
+4 Save Frame As - Catalog Viewer File Menu=Save_Frame_As_Catalog_Viewer_File_Menu
+4 Delete - Catalog Viewer File Menu=Delete_Catalog_Viewer_File_Menu
+4 Properties - Catalog Viewer File Menu=Properties_Catalog_Viewer_File_Menu
+4 Close - Catalog Viewer File Menu=Close_Catalog_Viewer_File_Menu
+3 Catalog Viewer Edit Menu
+4 Catalog Viewer Edit Menu=Catalog_Viewer_Edit_Menu
+4 Undo - Catalog Viewer Edit Menu=Undo_Catalog_Viewer_Edit_Menu
+4 Copy - Catalog Viewer Edit Menu=Copy_Catalog_Viewer_Edit_Menu
+4 Crop - Catalog Viewer Edit Menu=Crop_Catalog_Viewer_Edit_Menu
+4 Cut - Catalog Viewer Edit Menu=Cut_Catalog_Viewer_Edit_Menu
+4 Restore - Catalog Viewer Edit Menu=Restore_Catalog_Viewer_Edit_Menu
+4 Select All - Catalog Viewer Edit Menu=Select_All_Catalog_Viewer_Edit_Menu
+3 Catalog Viewer View Menu
+4 Catalog Viewer View Menu=Catalog_Viewer_View_Menu
+4 Previous - Catalog Viewer View Menu=Previous_Catalog_Viewer_View_Menu
+4 Next - Catalog Viewer View Menu=Next_Catalog_Viewer_View_Menu
+4 Palette - Catalog Viewer View Menu=Palette_Catalog_Viewer_View_Menu
+4 Dithering - Catalog Viewer View Menu=Dithering_Catalog_Viewer_View_Menu
+4 Set Font - Catalog Viewer View Menu=Set_Font_Catalog_Viewer_View_Menu
+4 Word Wrap - Catalog Viewer View Menu=Word_Wrap_Catalog_Viewer_View_Menu
+4 Play - Catalog Viewer View Menu=Play_Catalog_Viewer_View_Menu
+4 Open - Catalog Viewer View Menu=Open_Catalog_Viewer_View_Menu
+4 First Frame - Catalog Viewer View Menu=First_Frame_Catalog_Viewer_View_Menu
+4 Previous Frame - Catalog Viewer View Menu=Previous_Frame_Catalog_Viewer_View_Menu
+4 Next Frame - Catalog Viewer View Menu=Next_Frame_Catalog_Viewer_View_Menu
+4 Last Frame - Catalog Viewer View Menu=Last_Frame_Catalog_Viewer_View_Menu
+3 Catalog Viewer Image Menu
+4 Catalog Viewer Image Menu=Catalog_Viewer_Image_Menu
+4 Flip - Catalog Viewer Image Menu=Flip_Catalog_Viewer_Image_Menu
+4 Reverse - Catalog Viewer Image Menu=Reverse_Catalog_Viewer_Image_Menu
+4 Shear - Catalog Viewer Image Menu=Shear_Catalog_Viewer_Image_Menu
+4 Rotate - Catalog Viewer Image Menu=Rotate_Catalog_Viewer_Image_Menu
+4 Scale - Catalog Viewer Image Menu=Scale_Catalog_Viewer_Image_Menu
+4 Effects - Catalog Viewer Image Menu=Effects_Catalog_Viewer_Image_Menu
+4 Edge Detection - Catalog Viewer Image Menu=Edge_Detection_Catalog_Viewer_Image_Menu
+3 Catalog Viewer Colors Menu
+4 Catalog Viewer Colors Menu=Catalog_Viewer_Colors_Menu
+4 Halftone - Catalog Viewer Colors Menu=Halftone_Catalog_Viewer_Colors_Menu
+4 GrayScale - Catalog Viewer Colors Menu=GrayScale_Catalog_Viewer_Colors_Menu
+4 Color Resolution - Catalog Viewer Colors Menu=Color_Resolution_Catalog_Viewer_Colors_Menu
+4 Invert - Catalog Viewer Colors Menu=Invert_Catalog_Viewer_Colors_Menu
+4 Transparent Color - Catalog Viewer Colors Menu=Transparent_Color_Catalog_Viewer_Colors_Menu
+4 Brightness - Catalog Viewer Colors Menu=Brightness_Catalog_Viewer_Colors_Menu
+4 Contrast - Catalog Viewer Colors Menu=Contrast_Catalog_Viewer_Colors_Menu
+4 Hue - Catalog Viewer Colors Menu=Hue_Catalog_Viewer_Colors_Menu
+4 Saturation - Catalog Viewer Colors Menu=Saturation_Catalog_Viewer_Colors_Menu
+4 Advanced - Catalog Viewer Colors Menu=Advanced_Catalog_Viewer_Colors_Menu
+4 Histogram Equalize - Catalog Viewer Colors Menu=Histogram_Equalize_Catalog_Viewer_Colors_Menu
+4 HistoContrast - Catalog Viewer Colors Menu=HistoContrast_Catalog_Viewer_Colors_Menu
+4 Stretch Intensity - Catalog Viewer Colors Menu=Stretch_Intensity_Catalog_Viewer_Colors_Menu
+4 Gamma Correct - Catalog Viewer Colors Menu=Gamma_Correct_Catalog_Viewer_Colors_Menu
+4 Intensity Detect - Catalog Viewer Colors Menu=Intensity_Detect_Catalog_Viewer_Colors_Menu
+3 Catalog Viewer Help Menu
+4 Catalog Viewer Help Menu=Catalog_Viewer_Help_Menu
+4 Help - Catalog Viewer Help Menu=Help_Catalog_Viewer_Help_Menu
+3 Catalog Viewer Toolbar
+4 Save - Catalog Viewer Toolbar=Save_Catalog_Viewer_Toolbar
+4 Print - Catalog Viewer Toolbar=Print_Catalog_Viewer_Toolbar
+4 Print Preview - Catalog Viewer Toolbar=Print_Preview_Catalog_Viewer_Toolbar
+4 Crop Region - Catalog Viewer Toolbar=Crop_Region_Catalog_Viewer_Toolbar
+4 Copy Selection to Clipboard - Catalog Viewer Toolbar=Copy_Selection_to_Clipboard_Catalog_Viewer_Toolbar
+4 Undo - Catalog Viewer Toolbar=Undo_Catalog_Viewer_Toolbar
+4 Delete - Catalog Viewer Toolbar=Delete_Catalog_Viewer_Toolbar
+4 View Previous - Catalog Viewer Toolbar=View_Previous_Catalog_Viewer_Toolbar
+4 View Next - Catalog Viewer Toolbar=View_Next_Catalog_Viewer_Toolbar
+4 Help - Catalog Viewer Toolbar=Help_Catalog_Viewer_Toolbar
+1 Reference
+2 Snagit/32 Support=Snagit_32_Support
+2 SnagIt/32 Default Settings=SnagIt_32_Default_Settings
+2 Fixing Problems that Occur=Fixing_Problems_that_Occur
+2 Frequently Asked Questions=Frequently_Asked_Questions
+2 Software License Agreement=Software_License_Agreement
+2 System Requirements=System_Requirements
+2 Activating Snagit/32 from Word for Windows=Activating_Snagit_32_from_Word_for_Windows
+2 Installing the Snagit/32 Word for Windows Macro=Installing_the_Snagit_32_Word_for_Windows_Macro
+2 Word for Windows 2.0=Word_for_Windows_2.0
+2 Word for Windows 95 and Word for Windows 6.0=Word_for_Windows_95_and_Word_for_Windows_6.0
+2 Word 97=Word_97
+2 Adding SnagIt/32 to Other Applications and DDE Reference=Adding_SnagIt_32_to_Other_Applications_and_DDE_Reference

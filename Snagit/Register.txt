@@ -1,0 +1,178 @@
+HOW TO REGISTER SNAGIT - REGISTER.TXT                    01 Feb 1999
+
+  Thank you for your interest in SnagIt!
+
+  This program and its associated files are part of an evaluation
+  package copyrighted by TechSmith Corporation. SnagIt is not in the
+  public domain.  This program must be registered if it is used
+  beyond the 45 day evaluation period.
+
+  Single-User SnagIt          $39.95
+
+  Registration entitles the licensee to install either the 32 bit or
+  the 16 bit version of SnagIt and to switch between the two without
+  further payment.
+
+  When you register SnagIt Twin Pack, you have the option of
+  requesting a registered version of the software on CDROM or of
+  requesting a software key to register the version you have. The
+  software key immediately removes all registration reminder screens.
+
+  Multi-User SnagIt          $200.00
+
+  Registration entitles the licensed organization to install 10 copies
+  of SnagIt, in any combination of 16 bit and 32 bit. A single CDROM
+  is shipped along with the multi-user license.
+
+
+1.0  How to Register
+
+  Registration Instructions
+
+  1.  Select the SnagIt program's Help menu.
+
+  2.  Select Register SnagIt from the menu.
+
+  3.  Click on the Registration Form button.  Enter your registration
+      information in the fields provided.
+
+      NOTE: You must specify a name or company name when you register.
+            Your software key will be personalized for that name ONLY.
+
+  4.  When you are finished, select OK. This will create a text file
+      called REGISTER.TXT in the SnagIt default directory. This is
+      your registration and order form.  It includes a price sheet and
+      your Product ID number.
+
+  5.  Windows Notepad will now open REGISTER.TXT automatically,
+      allowing you to edit and or print the registration form.  While
+      you are editing, please complete any blank items, including
+      quantities, totals, and payment information. DO NOT EDIT THE
+      PRODUCT ID NUMBER. Note that shipping charges are only
+      applicable to CDROM orders.
+
+  6.  Return the registration form, with payment, to TechSmith
+      Corporation by any of the methods described on the form.  Upon
+      receipt of your order, TechSmith will generate your CDROM or
+      software key. It will then be sent to you by the method of
+      your choice, either e-mail, fax, postal delivery or other.
+
+  If you have elected to receive a software key, use the following
+  steps to complete the registration process.
+
+  7.  Select the Help->Register SnagIt menu item.
+
+  8.  Click on the Enter Software Key button.
+
+  9.  Enter your registration key, exactly as it is shown, in the
+      field provided.
+
+  10. Press OK.
+
+  Your software is now registered!  All the registration reminder
+  screens and software expiration dates will be removed.  If you have
+  any additional questions or comments, contact TechSmith by e-mail at
+  snagit@techsmith.com.
+
+
+1.1  CompuServe SWREG Forum
+
+  You may also register SnagIt Twin Pack using the Shareware
+  Registration Forum on CompuServe (GO SWREG).
+
+               SWREG Single-User #9459
+               SWREG Ten-User    #9461
+
+
+1.2  International Distributors
+
+  Non U.S. customers ordering SnagIt on CDROM may contact:
+
+  Australia
+
+    Dunson Pty Ltd
+    32 Elliott Road
+    Dandenong, Victoria
+    Australia  3175
+    Phone  :  +61 3 9706 8773
+    Fax    :  +61 3 9706 8704
+    E-Mail :  snagit@dunson.com.au
+    Web    :  www.dunson.com.au
+
+  Canada
+
+    Datamex Technologies
+    7490 Paific Circle, Unit 7
+    Mississauga, Ontario L5T 2A3
+    Canada
+    Phone: (905) 565-0900
+    Fax  : (905) 565-0901
+
+    Stream International
+    Phone: (800) 699-2095
+
+  France
+
+    WinShare SARL
+    Mail:    WinShare SARL
+    46-48 Route de Thionville
+    Zone Maison Neuve
+    57140-WOIPPY
+    France
+    Phone : (33) 3 87 30 85 57
+    Fax   : (33) 3 87 32 37 75
+    E-Mail:  sales@wska.com
+
+  Germany
+
+    ADN Distribution GmbH
+    ECO Technologiezentrum
+    Lyrenstr: 13
+    44866 Bochum
+    Germany
+    Phone : +49 (0) 2327-998-0
+    Fax   : +49 (0) 2327-998-560
+    Web   : www.adnbo.com
+
+  Scandinavia / Benelux
+
+    CD & E
+    Watercirkel 79
+    NL-1186 LP Amstelveen
+    Phone    : (31) (0)20-4535357
+    Fax      : (31) (0)20-4535711
+    E-mail   : cde@xs4all.nl
+    Internet : http://www.cd-e.com
+
+  United Kingdom
+
+    Atlantic Coast plc.
+    The Shareware Village
+    Colyton
+    Devon EX13 6HA
+    England
+    Phone:     01297 552222
+    Fax:       01297 553366
+
+  Countries Not Listed
+
+    TechSmith Corporation
+    Attn.: SnagIt/32 Sales
+    PO Box 4758
+    East Lansing, MI  48826-4758
+    U.S.A.
+    Phone      :(517) 333-2100
+    Fax        :(517) 333-1888
+    E-mail     : sales@techsmith.com
+    Internet   : http://www.techsmith.com
+    CompuServe : 75226,3136
+
+
+  Thanks for your interest in SnagIt!
+
+  TechSmith Corporation             Info  :       info@techsmith.com
+  P.O. Box 4758                     WWW   : http://www.techsmith.com
+  East Lansing, MI 48826-4758 USA   Sales :      sales@techsmith.com
+  517-333-2100 (tel)
+  517-333-1888 (fax)
+
